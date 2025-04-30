@@ -1,24 +1,24 @@
 
 🏨 Site-Educacional
-Este projeto é sobre a criação de uma plataforma com o foco na área educacional, de forma a facilitar o acesso ao conhecimento em diferentes áreas, com recurso a cursos interativos e organizado por disciplinas e níveis de ensino. Desta forma, é possível que o aluno tenha o seu próprio ritmo de aprendizagem, sem necessidade de apresentar resultados em prazos estipulados, que por vezes não refletem o conhecimento adquirido sobre uma disciplina.
+- Este projeto é sobre a criação de uma plataforma com o foco na área educacional, de forma a facilitar o acesso ao conhecimento em diferentes áreas, com recurso a cursos interativos e organizado por disciplinas e níveis de ensino. Desta forma, é possível que o aluno tenha o seu próprio ritmo de aprendizagem, sem necessidade de apresentar resultados em prazos estipulados, que por vezes não refletem o conhecimento adquirido sobre uma disciplina.
 
 📋 Sumário
-Funcionalidades
-Tecnologias
-Requisitos
-Instalação
-Uso
-Contribuições
-Licença
+- Funcionalidades
+- Tecnologias
+- Requisitos
+- Instalação
+- Uso
+- Contribuições
+- Licença
 
 ✨ Funcionalidades
 
-📚 Catálogo de Cursos: Acesso a aulas organizadas por tema, disciplinas, nível de ensino.
-🎥 Vídeo-aulas e Exercícios: Utilização de conteúdos multimédia com atividades interativas e gravação das aulas anteriores, para poderem ser revistas.
-🧑‍🏫 Área do Professor: Permite a criação e gestão de turmas, matérias e tarefas.
-👨‍🎓 Área do Aluno: Histórico de progresso, certificações e recomendações personalizadas.
-📊 Painel de Desempenho: Relatórios de desempenho individual e por turma.
-🔒 Autenticação e Perfis: Formas de fazer login com segurança para alunos, professores e administradores.
+- 📚 Catálogo de Cursos: Acesso a aulas organizadas por tema, disciplinas, nível de ensino.
+- 🎥 Vídeo-aulas e Exercícios: Utilização de conteúdos multimédia com atividades interativas e gravação das aulas anteriores, para poderem ser revistas.
+- 🧑‍🏫 Área do Professor: Permite a criação e gestão de turmas, matérias e tarefas.
+- 👨‍🎓 Área do Aluno: Histórico de progresso, certificações e recomendações personalizadas.
+- 📊 Painel de Desempenho: Relatórios de desempenho individual e por turma.
+- 🔒 Autenticação e Perfis: Formas de fazer login com segurança para alunos, professores e administradores.
 
 🛠️ Tecnologias
 Este projeto é desenvolvido utilizando:
